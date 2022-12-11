@@ -1,6 +1,7 @@
 # APP-KASIR-TKINTER
 aplikasi mengelola konter
 
+di buat dengan python3
 menggunakan library:
-TKINTER
-SQLITE3
+pip install tkinter
+pip install db-sqlite3
